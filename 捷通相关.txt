@@ -1,9 +1,0 @@
-https://github.com/flipped-aurora/gin-vue-admin
-
-（吹逼资本）
-目前已有：xrom jwt swagger mysql
-
-redis  存JWT
-casbin 权限管理
-zap 日志记录 考虑KIBANA日志整理
-项目结构优化
