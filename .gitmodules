@@ -1,0 +1,9 @@
+[submodule "web-hooks"]
+	path = web-hooks
+	url = git@github.com:gitClam/web-hooks.git
+[submodule "clam-server"]
+	path = clam-server
+	url = git@github.com:gitClam/clam-server.git
+[submodule "clam-website"]
+	path = clam-website
+	url = git@github.com:gitClam/clam-website.git
